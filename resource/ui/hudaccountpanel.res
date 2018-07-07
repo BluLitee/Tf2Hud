@@ -20,8 +20,8 @@
 		"zpos"			"0"
 		"wide"			"84"
 		"tall"			"42"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_red"
@@ -34,7 +34,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MetalIcon"
-		"xpos"			"19"
+		"xpos"			"43"
 		"xpos_lodef"	"12"
 		"ypos"			"116"
 		"ypos_lodef"	"112"
@@ -54,7 +54,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValue"
-		"xpos"			"20"
+		"xpos"			"44"
 		"ypos"			"112"
 		"ypos_lodef"	"121"
 		"zpos"			"2"
